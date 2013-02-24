@@ -9,15 +9,15 @@ Licensed under [GPLv2](http://www.gnu.org/licenses/gpl-2.0.txt)
 Intro
 -----
 
-*Abandon hope all ye who enter here…*
+*Abandon hope all ye who enter here...*
 
-[Adventure](http://adventure.fardogllc.com) was my first project after my self-
-imposed web programming retirement, and after a 3 year absence, I was rusty.
-What you see here isn't beautiful, but by glob it works.
+[Adventure](http://adventure.fardogllc.com) was my first project after my 
+self-imposed web programming retirement, and after a 3 year absence, I was 
+rusty. What you see here isn't beautiful, but by glob it works.
 
 It was my intention to re-implement an *Adventure 2.0* on Python + Django, but
 honestly the idea started to bore me. I'd love to see someone continue on this
-project—so here it is! GPL'd and all.
+project---so here it is! GPL'd and all.
 
 **Yes: I will accept sensible pull requests for merger into the public
 [Adventure](http://adventure.fardogllc.com) instance!**
@@ -45,9 +45,9 @@ practice but it is what it is.
 Certain static pages are generated from the database, such as the terms. You can
 check which from the *application/config/routes.php* file.
 
-Submit issues for anything confusing. That is all.
+Submit issues for anything confusing/broken. That is all.
 
-–nate.
+--nate.
 
 
 Warranty
