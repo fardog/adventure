@@ -26,8 +26,7 @@ project—so here it is! GPL'd and all.
 Installation
 ------------
 
-Adventure is fairly tied to a 
-[LAMP](http://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack; it's unlikely
+Adventure is fairly tied to a [LAMP][1] stack; it's unlikely
 to work out-of-the-box on anything else.
 
 Included under the "application" directory is a *database.sql*, which contains
@@ -37,7 +36,7 @@ Adventure doesn't know how to create a schema by itself.
 Database created? Good. Now, you'll need to create the necessary
 *application/config/* files. Any that are named **[name]-example.php** will
 need to be named to **[name].php** and filled with the appropriate information.
-I've marked each one with a comment reading **/** ADVENTURE_REQUIRED **/**.
+I've marked each one with a comment reading `/** ADVENTURE_REQUIRED **/`.
 
 Once that's complete, you should be nearly rocking. Create yourself a user right
 away; adventure places a lot of responsibility on User ID 1; a super-bad
@@ -77,3 +76,5 @@ LICENSE file for further details.
 
 The phrase "Choose your own adventure" is owned by whoever it is that still
 publishes those books.
+
+[1]: http://en.wikipedia.org/wiki/LAMP_(software_bundle)
