@@ -1,0 +1,12 @@
+h1. Functions
+
+* Breadcrumb/path of adventure (stored in session)
+
+h2. Page
+
+* Add multiple content types
+** Video (Youtube/Vimeo)
+** Image (imgur)
+** Audio (Soundcloud)
+** Text
+

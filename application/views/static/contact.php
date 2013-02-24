@@ -1,0 +1,2 @@
+<h2>Contact</h2>
+<p>If you run into any problems or have a suggestion, please submit it to the <a href="https://bitbucket.org/milkandtang/adventure/issues" target="_blank">Tracker</a>. For urgent matters, please email <?php echo safe_mailto('adventure@fardogllc.com', 'adventure@fardogllc.com'); ?>.</p>

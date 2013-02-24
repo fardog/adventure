@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^adventure\.fardogllc\.com$ [NC]
+RewriteRule ^(.*)$ http://adventure\.fardo\.gs/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^adventure\.dev\.fardogllc\.com$ [NC]
+RewriteRule ^(.*)$ http://adventure\.dev\.fardo\.gs/$1 [R=301,L]
+RewriteCond $1 !^(index\.php|images|robots\.txt|humans\.txt|([^/]+)\.png|([^/]+)\.ico|css|js)
+RewriteRule ^(.*)$ /index.php/$1 [L] 

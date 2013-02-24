@@ -1,0 +1,8 @@
+config.php
+database.php
+email.php
+tank_auth.php
+fabconfig.py
+*.pyc
+*.pyo
+misc
